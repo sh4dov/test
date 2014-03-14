@@ -1,5 +1,0 @@
-C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
-C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
-C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
-C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
-C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

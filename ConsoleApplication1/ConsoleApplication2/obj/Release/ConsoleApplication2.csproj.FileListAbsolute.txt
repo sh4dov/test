@@ -1,9 +1,0 @@
-C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication2\bin\Release\ConsoleApplication2.exe.config
-C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication2\bin\Release\ConsoleApplication2.exe
-C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication2\bin\Release\ConsoleApplication2.pdb
-C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication2\bin\Release\EntityFramework.dll
-C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication2\bin\Release\EntityFramework.SqlServer.dll
-C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication2\bin\Release\EntityFramework.xml
-C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication2\bin\Release\EntityFramework.SqlServer.xml
-C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication2\obj\Release\ConsoleApplication2.exe
-C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication2\obj\Release\ConsoleApplication2.pdb
