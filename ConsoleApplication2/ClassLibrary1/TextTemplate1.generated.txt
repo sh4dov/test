@@ -1,0 +1,6 @@
+﻿ClassLibrary1			vsCMElementNamespace
+					vsCMElementNamespace
+					vsCMElementNamespace
+					vsCMElementNamespace
+		using System;
+using System.CodeDom.Compiler;

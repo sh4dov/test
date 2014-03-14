@@ -1,0 +1,62 @@
+﻿<#@ template debug="true" hostSpecific="true" #>
+<#@ output extension=".generated.txt" #>
+<#@ Assembly Name="EnvDTE.dll" #>
+<#@ Assembly Name="System.Data" #>
+<#@ Assembly Name="System.Core" #>
+<#@ import namespace="System.Reflection" #>
+<#@ import namespace="EnvDTE" #>
+<#@ import namespace="System.Data" #>
+<#@ import namespace="System.Data.SqlClient" #>
+<#@ import namespace="System.IO" #>
+<#@ import namespace="System.Text.RegularExpressions" #>
+<#@ import namespace="System.Linq" #>
+<#
+    var list = Assembly.GetExecutingAssembly().GetTypes().Where(t => t.IsClass).ToList();
+    // Get containing project
+    IServiceProvider serviceProvider = (IServiceProvider)Host;
+    DTE env = (DTE)serviceProvider.GetService(typeof(DTE));
+    
+	Project project = env.Solution.FindProjectItem(Host.TemplateFile).ContainingProject;
+	#><#=project.Name#><#
+	GetValue(project.CodeModel.CodeElements);
+ 
+#>
+using System;
+using System.CodeDom.Compiler;
+<#+
+
+    private void PrintInfo(CodeElement element)
+    {
+        #>
+			<#=element.Kind#>
+		<#+
+    }
+
+    private void GetValue(CodeElements elements)
+    {
+        foreach (EnvDTE.CodeElement element in elements)
+        {
+            PrintInfo(element);
+            if (element.Kind == EnvDTE.vsCMElement.vsCMElementClass)
+            {
+                var myClass = (EnvDTE.CodeClass) element;
+                // do stuff with that class here
+				#>
+				<#= myClass.FullName#>
+				<#+
+            }
+            else if(element.Kind == EnvDTE.vsCMElement.vsCMElementNamespace)
+            {
+                try
+                {
+                    GetValue(element.Children);
+                }
+                catch
+                {
+                }
+                
+            }
+        }
+    }
+
+#>

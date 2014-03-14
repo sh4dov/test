@@ -1,0 +1,4 @@
+C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\UnitTestProject1\bin\Release\UnitTestProject1.dll
+C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\UnitTestProject1\bin\Release\UnitTestProject1.pdb
+C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\UnitTestProject1\obj\Release\UnitTestProject1.dll
+C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\UnitTestProject1\obj\Release\UnitTestProject1.pdb

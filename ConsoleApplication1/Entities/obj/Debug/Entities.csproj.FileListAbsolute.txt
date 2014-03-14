@@ -1,0 +1,11 @@
+C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Entities\bin\Debug\Entities.dll
+C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Entities\bin\Debug\Entities.pdb
+C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Entities\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Entities\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Entities\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Entities\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Entities\obj\Debug\Entities.dll
+C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Entities\obj\Debug\Entities.pdb
+C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication2\bin\Debug\EntityFramework.dll
+C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication2\bin\Debug\EntityFramework.xml
+C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\z8qar\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

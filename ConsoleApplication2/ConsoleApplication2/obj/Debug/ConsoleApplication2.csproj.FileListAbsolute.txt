@@ -1,0 +1,5 @@
+C:\Users\z8qar\Google Drive\Praca\Projekty\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\z8qar\Google Drive\Praca\Projekty\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\z8qar\Google Drive\Praca\Projekty\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\z8qar\Google Drive\Praca\Projekty\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\z8qar\Google Drive\Praca\Projekty\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
